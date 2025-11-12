@@ -1,0 +1,6 @@
+.venv
+.idea
+
+llvm-project
+IR2Vec
+.env
