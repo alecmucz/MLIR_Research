@@ -1,6 +1,5 @@
+.env
 .venv
 .idea
 
-llvm-project
-src/offload
-.env
+third_party
